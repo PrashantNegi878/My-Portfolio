@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.47c89dc6.css",
+    "main.js": "/MyPortfolio/static/js/main.fe1a1ca9.js",
+    "static/js/787.749b4a44.chunk.js": "/MyPortfolio/static/js/787.749b4a44.chunk.js",
+    "static/media/logo-s.png": "/MyPortfolio/static/media/logo-s.11b03e2b156977228c64.png",
+    "static/media/PasswordVault.jpg": "/MyPortfolio/static/media/PasswordVault.1e79ea5732682f28fcbc.jpg",
+    "static/media/helvetica-neu.ttf": "/MyPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/MyPortfolio/static/media/logo_sub.0aafd0b8799f246da78a.png",
+    "static/media/LaBelleAurore.woff2": "/MyPortfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/MyPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/MyPortfolio/index.html",
+    "main.47c89dc6.css.map": "/MyPortfolio/static/css/main.47c89dc6.css.map",
+    "main.fe1a1ca9.js.map": "/MyPortfolio/static/js/main.fe1a1ca9.js.map",
+    "787.749b4a44.chunk.js.map": "/MyPortfolio/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c89dc6.css",
+    "static/js/main.fe1a1ca9.js"
+  ]
+}
