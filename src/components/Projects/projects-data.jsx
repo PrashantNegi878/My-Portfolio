@@ -1,10 +1,12 @@
 import pv from '../../PasswordVault.jpg';
+import mrs from "../../MovieRecommendationSystem.png";
+import ct from "../../CovidTracker.png";
 
 export const ProjectsData =[
-    {src:"../../MovieRecommendationSystem.png",
+    {src:mrs,
     title:"Movie Recommendation System",
     desc:"A Recommendation System that suggests most popular movies based on Genre you want"},
-    {src:"../../CovidTracker.png",
+    {src:ct,
     title:"Covid Tracker",
     desc:"Track the new pandemic COVID-19 virus outbreak live worldwide"},
     {src:pv,
