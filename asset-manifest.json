@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.0580c13e.css",
-    "main.js": "/My-Portfolio/static/js/main.5c4d3511.js",
+    "main.js": "/My-Portfolio/static/js/main.8c2d58ff.js",
     "static/js/787.749b4a44.chunk.js": "/My-Portfolio/static/js/787.749b4a44.chunk.js",
+    "static/media/MovieRecommendationSystem.png": "/My-Portfolio/static/media/MovieRecommendationSystem.cd9a766148a2abe1d701.png",
+    "static/media/CovidTracker.png": "/My-Portfolio/static/media/CovidTracker.7f726846bab6fba0d595.png",
     "static/media/logo-s.png": "/My-Portfolio/static/media/logo-s.11b03e2b156977228c64.png",
     "static/media/PasswordVault.jpg": "/My-Portfolio/static/media/PasswordVault.1e79ea5732682f28fcbc.jpg",
     "static/media/helvetica-neu.ttf": "/My-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -11,11 +13,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/My-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/My-Portfolio/index.html",
     "main.0580c13e.css.map": "/My-Portfolio/static/css/main.0580c13e.css.map",
-    "main.5c4d3511.js.map": "/My-Portfolio/static/js/main.5c4d3511.js.map",
+    "main.8c2d58ff.js.map": "/My-Portfolio/static/js/main.8c2d58ff.js.map",
     "787.749b4a44.chunk.js.map": "/My-Portfolio/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0580c13e.css",
-    "static/js/main.5c4d3511.js"
+    "static/js/main.8c2d58ff.js"
   ]
 }
