@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.0580c13e.css",
+    "main.css": "/My-Portfolio/static/css/main.a28bac6e.css",
     "main.js": "/My-Portfolio/static/js/main.8c2d58ff.js",
     "static/js/787.749b4a44.chunk.js": "/My-Portfolio/static/js/787.749b4a44.chunk.js",
     "static/media/MovieRecommendationSystem.png": "/My-Portfolio/static/media/MovieRecommendationSystem.cd9a766148a2abe1d701.png",
@@ -12,12 +12,12 @@
     "static/media/LaBelleAurore.woff2": "/My-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/My-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/My-Portfolio/index.html",
-    "main.0580c13e.css.map": "/My-Portfolio/static/css/main.0580c13e.css.map",
+    "main.a28bac6e.css.map": "/My-Portfolio/static/css/main.a28bac6e.css.map",
     "main.8c2d58ff.js.map": "/My-Portfolio/static/js/main.8c2d58ff.js.map",
     "787.749b4a44.chunk.js.map": "/My-Portfolio/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0580c13e.css",
+    "static/css/main.a28bac6e.css",
     "static/js/main.8c2d58ff.js"
   ]
 }
