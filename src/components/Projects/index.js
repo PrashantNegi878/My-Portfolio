@@ -22,15 +22,16 @@ const Projects=()=>{
         <h1>
         <AnimatedLetters letterClass={letterClass} strArray={strArray} idx={15}/>  
         </h1>
-        <br/>
+        <div className="p-div">
         <p>
         Here are some of the Projects that i've worked on :
+        </p>
         <div className='my-projects'>
         {ProjectsData.map((data)=>{
-            return(<MyCard src={data.src} title={data.title} desc={data.desc}/>)
+            return(<MyCard src={data.src} title={data.title} desc={data.desc} key={data.title}/>)
         })}
         </div>
-        </p>
+        </div>
         </div>
         </div>
         <Loader type="pacman"></Loader>

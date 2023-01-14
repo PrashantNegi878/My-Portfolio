@@ -60,6 +60,12 @@
 
 }
 
+.about-page{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 
 @keyframes spincube {
     from,
@@ -82,4 +88,3 @@
       transform: rotateX(90deg);
     }
   }
-  

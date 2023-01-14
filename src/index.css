@@ -10,7 +10,6 @@ body {
   font-family: 'Helvetica';
   color: #444;
   background: #022c43;
-  overflow: hidden;
   display: block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
