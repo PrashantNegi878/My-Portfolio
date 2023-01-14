@@ -28,3 +28,9 @@
         z-index: 1;
       }
 }
+
+@media screen and (max-width: 800px) {
+  .logo-container{
+      display: none;
+  }
+}

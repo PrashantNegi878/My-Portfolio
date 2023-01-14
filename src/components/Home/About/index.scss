@@ -11,7 +11,7 @@
 
 
 .cubespinner{
-    animation-name: spincube;
+  animation-name: spincube;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
   animation-duration: 12s;
@@ -86,5 +86,15 @@
     }
     83% {
       transform: rotateX(90deg);
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    .text-zone{
+        width: 80%!important;
+    }
+
+    .stage-cube-cont{
+      display: none;
     }
   }
