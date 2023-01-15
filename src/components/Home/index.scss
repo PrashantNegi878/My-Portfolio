@@ -83,8 +83,11 @@
 }
 
 @media screen and (max-width: 800px) {
-    .text-zone{
-        width: 80%!important;
+    .home-page h1{
+       font-size: 40px;
     }
+    .home-page .text-zone{
+        top:50%
+     }
   }
 

@@ -1,6 +1,6 @@
 .stage-cube-cont{
     width: 50%;
-    height: 100%;
+    height: 60%;
     top: 0;
     padding-top: 18%;
     margin-left: 0;
@@ -60,12 +60,6 @@
 
 }
 
-.about-page{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
 
 @keyframes spincube {
     from,
@@ -90,11 +84,34 @@
   }
 
   @media screen and (max-width: 800px) {
-    .text-zone{
-        width: 80%!important;
+    .about-page .page {
+      position: initial;
     }
+  
+    .about-page-outer .container {
+      position: initial;
+      height: auto;
+      min-height: auto;
+  
+      &.about-page,.projects-page {
+        .text-zone {
+          margin-left: auto;
+          margin-right: auto;
+          margin-top:10%;
+          position: initial;
+          transform: none;
+          width: 80%;
+          display: block;
+          padding: 20px;
+          box-sizing: border-box;
+        }
+      }
+    }  
 
-    .stage-cube-cont{
-      display: none;
+    .stage-cube-cont {
+      position: initial;
+      width: 100%;
+      // height: 70%;
+      overflow: visible;
     }
   }

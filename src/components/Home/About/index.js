@@ -15,7 +15,8 @@ const About=()=>
 
     return(
           <>
-            <div className='container about-page'>
+          <div className='about-page-outer '>
+            <div className='about-page container '>
             <div className='text-zone'>
             <h1>
                 <AnimatedLetters letterClass={letterClass} strArray={['A','b','o','u','t',' ','M','e']} idx={15}/>
@@ -59,6 +60,7 @@ const About=()=>
               </div>
           </div>
           </div> 
+          </div>
           <Loader type='pacman'/>
           </>
     );
